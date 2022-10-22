@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+    <item
+        android:id="@+id/action_beauty"
+        android:orderInCategory="100"
+        android:title="@string/action_beauty"
+        android:icon="@drawable/beauty_and_health"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_child"
+        android:orderInCategory="100"
+        android:title="@string/action_child"
+        android:icon="@drawable/child"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_aboutAuthor"
+        android:orderInCategory="100"
+        android:title="@string/action_aboutAuthor"
+        android:icon="@drawable/author"
+        app:showAsAction="never"/>
+</menu>

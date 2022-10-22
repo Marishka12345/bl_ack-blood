@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Домашняя аптечка</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="action_beauty">Красота и здоровье</string>
+    <string name="action_child">Уход за ребёнком</string>
+    <string name="action_aboutAuthor">Создатель приложения</string>
+    <string name="about_application">О приложении</string>
+    <string name="aboutApp">Ⓒ Приложение «Домашняя аптечка» создано специально для того, чтобы познакомить пользователей с описанием лекарственных средств, которые применяются в нашей стране.</string>
+    <string name="main">Главная</string>
+    <string name="apteka">Аптечка</string>
+    <string name="tips">Полезные советы</string>
+    <string name="inRegions">В регионах страны</string>
+
+</resources>
